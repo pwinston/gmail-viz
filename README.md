@@ -1,3 +1,5 @@
-= gmail-viz
+# gmail-viz
 
-Experimenting with gmail api. Does nothing useful yet.
+Very early experiments with gmail api.
+
+Does nothing useful yet.
